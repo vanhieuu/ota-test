@@ -9,7 +9,7 @@
 
   "bundleUrl": "https://vanhieuu.github.io/ota-test/ota/android/index.android.bundle",
 
-  "bundleSha256": "PUT_SHA256_HERE",
+  "bundleSha256": "536700c77205f2cecf79f15da24dff8d80578e4fbbdc27fc8234483b3ea76865",
 
   "mandatory": false
 

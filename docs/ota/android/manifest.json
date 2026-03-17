@@ -1,7 +1,7 @@
 {
   "updateId": "2026.03.17-002",
   "platform": "android",
-  "runtimeVersion": "android-2026031000-2",
+  "runtimeVersion": "2026031701-3",
   "bundleUrl": "https://vanhieuu.github.io/ota-test/ota/android/index.android.bundle",
   "bundleSha256": "536700c77205f2cecf79f15da24dff8d80578e4fbbdc27fc8234483b3ea76865",
   "mandatory": false
